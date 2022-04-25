@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lionn91</h1>
 <h3 align="center">A am node validator from Ukraine</h3>
+---
+
+![followers](https://img.shields.io/github/followers/lionn91?style=social)
+![stars](https://img.shields.io/github/stars/lionn91?style=social)
+
 - 👋 Hi, I’m @Lionn91
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
