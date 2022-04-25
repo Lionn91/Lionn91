@@ -12,3 +12,15 @@ Substrate
 Bit.country
 Archway
 Starknet
+
+## 💼 Skills
+Python
+Linux 
+Product testing
+
+## 📣 How about an Office quote?
+> Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
+>
+> <p>- Dwight Schrute</p>
+
+_Quote requested from [The Office API](https://www.officeapi.dev/)_
