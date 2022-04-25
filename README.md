@@ -5,20 +5,19 @@
 Lionn91/Lionn91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 ## 📌 Current nodes
-<br>Nym
+Nym
 <br>Substrate
 <br>Bit.country
 <br>Archway
 <br>Starknet
-
 ## 💼 Skills
-<br>Go
+Go
 <br>Python
 <br>Linux 
 <br>Tendermint
 <br>Product testing
+##  Translations and publications?
 
 ## 📣 How about an Office quote?
 > Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
