@@ -5,3 +5,10 @@
 Lionn91/Lionn91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## 📌 Current nodes
+Nym
+Substrate
+Bit.country
+Archway
+Starknet
