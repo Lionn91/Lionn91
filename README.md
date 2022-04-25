@@ -7,16 +7,18 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 📌 Current nodes
-Nym
-Substrate
-Bit.country
-Archway
-Starknet
+<br>Nym
+<br>Substrate
+<br>Bit.country
+<br>Archway
+<br>Starknet
 
 ## 💼 Skills
-Python
-Linux 
-Product testing
+<br>Go
+<br>Python
+<br>Linux 
+<br>Tendermint
+<br>Product testing
 
 ## 📣 How about an Office quote?
 > Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing.
